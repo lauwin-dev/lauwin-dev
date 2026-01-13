@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm LauWin 👋🏼</h1>
 
----
-
 ## About Me
 
 I’m **LauWin**, a **16-year-old Full-Stack Developer** with **2 years of hands-on experience** building modern digital solutions.
