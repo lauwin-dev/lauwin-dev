@@ -34,7 +34,6 @@ Architecting scalable, maintainable software systems with clear structure, stron
 
 <div align="left">
 
-  <strong>Frontend</strong><br/>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   </a>
@@ -47,10 +46,6 @@ Architecting scalable, maintainable software systems with clear structure, stron
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   </a>
-
-  <br/><br/>
-
-  <strong>Backend</strong><br/>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   </a>
@@ -63,10 +58,6 @@ Architecting scalable, maintainable software systems with clear structure, stron
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
-
-  <br/><br/>
-
-  <strong>Databases</strong><br/>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
   </a>
@@ -79,10 +70,6 @@ Architecting scalable, maintainable software systems with clear structure, stron
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   </a>
-
-  <br/><br/>
-
-  <strong>DevOps & Tools</strong><br/>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   </a>
