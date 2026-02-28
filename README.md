@@ -86,14 +86,5 @@ Architecting scalable, maintainable software systems with clear structure, stron
 
 </div>
 
-
-## 🌐 My Website
-https://lauwin.shop
-
 ## <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="24"/> Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/789168526065008640?idleMessage=%E2%9A%99%EF%B8%8F%20Developer%20%7C%20LW%20Shop&theme=dark)](https://discord.com/users/789168526065008640)
-
----
-
-## 👁 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=lauwin-dev&color=blue)
